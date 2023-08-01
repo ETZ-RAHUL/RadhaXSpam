@@ -8,7 +8,7 @@ API_ID = int(getenv("API_ID", "25981592"))
 API_HASH = getenv("API_HASH", "709f3c9d34d83873d3c7e76cdd75b866")
 SESSION1 = getenv("SESSION")
 ALIVE_PIC = getenv("ALIVE_PIC", "https://te.legra.ph/file/88f2548026fc038870f7b.jpg")
-OWNER_ID = int(getenv("OWNER_ID", "6039423699"))
+OWNER_ID = int(getenv("OWNER_ID", "2122293569"))
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
