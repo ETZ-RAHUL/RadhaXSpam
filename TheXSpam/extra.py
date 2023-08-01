@@ -9,7 +9,7 @@ from pyrogram import Client, filters
 from pyrogram.types import Message
 
 
-FIRST_TEXT = f"""★ 𝙍𝙮𝙖𝙣𝙓𝙎𝙥𝙖𝙢 𝙃𝙚𝙡𝙥 𝙈𝙚𝙣𝙪 ★
+FIRST_TEXT = f"""★ 𝐀𝐥𝐩𝐡𝐚𝙓𝙎𝙥𝙖𝙢 𝙃𝙚𝙡𝙥 𝙈𝙚𝙣𝙪 ★
 
 **» ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅꜱ:** [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/ro_yalworld)
 **» ʀᴀɪᴅ ᴄᴏᴍᴍᴀɴᴅꜱ:** [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/ro_yalworld)
